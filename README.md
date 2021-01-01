@@ -1,1 +1,3 @@
 # Optimal-course-structures
+
+This project applies word embedding models to a large pool of course videos on the Khan Academy platform, spanning a wide range of subject areas. The goal is to understand if, normalizing for the specific subject area of each course, particular classes of geometric shapes tend to be more (or less) effective at conveying knowledge to students, maintaining engagement, promoting interest, and so on. Discovering general patterns in effective courses’ shapes that apply across subject areas could provide the first formal models of what makes an effective lecture (or teacher).
